@@ -1,11 +1,11 @@
 
 ## Title
 
-Calculator
+Hide Show
 
 
 ## Description 
-A simple and user-friendly web-based calculator built using HTML, CSS, and JavaScript. Perform basic arithmetic operations, delete characters, and evaluate expressions with ease. The calculator features a clean and responsive design, making it accessible on various devices. Customize the calculator's appearance using CSS and leverage Font Awesome icons for visual appeal. An ideal addition to any web development project.
+Password Hide/Show: Easily toggle password visibility with a click. Customize eye icon, font colors, and background. Simple integration, enhanced user experience. Empower users, ensure privacy. Responsive design.
 
 ## Authors
 
@@ -14,41 +14,38 @@ A simple and user-friendly web-based calculator built using HTML, CSS, and JavaS
     
 ## Getting Started
 
-This is a customizable web-based calculator application. Easily modify the design by changing the background image, font color, and icons to match your preferences. Here's how to get started:
+Password Hide/Show: A web application that allows users to toggle the visibility of a password field. Customize the design with different eye icons, font colors, and background styles. Easily integrate into your projects by following these steps:
 
    1. Clone the repository to your local machine.
 
    2. Open the project in your preferred code editor.
 
-   3. Customize the HTML, CSS, or JavaScript files to suit your needs.
+   3. Customize the HTML, CSS, or JavaScript files to match your desired design.
 
-   4. Test the calculator locally to ensure it functions correctly.
+   4. Test the password hide/show functionality locally to ensure it works correctly.
 
-   5. Deploy the updated application to your chosen hosting platform for others to use.
+   5. Deploy the updated application to your preferred hosting platform for others to utilize.
 
-Unleash your creativity and personalize the calculator according to your style!
+Enhance user experience by providing the option to show or hide passwords securely. Empower users with control over their data.
 
 
 
 ## Features
 
 
-   1. Basic arithmetic operations: Addition, subtraction, multiplication, and division.
+   1. Toggle the visibility of a password field with a single click.
 
-   2. Decimal point support and clearing display.
+   2. Customizable eye icons, font colors, and background styles to fit your design preferences.
 
-   3. Delete last character and evaluate expressions.
+   3. Responsive layout for optimal viewing on various devices.
 
-   4. User-friendly design with responsive layout.
+   4. Integration of Google Fonts for improved typography.
 
-   5. Styling with custom CSS for an appealing visual experience.
+   5. Simple integration into existing web applications or projects.
 
-   6. Use of popular web fonts for improved typography.
+   6. Straightforward code structure for easy modification and extension.
 
-   7. Integration of Font Awesome icons for enhanced aesthetics.
-
-
-
+   7. Enhance password input usability and user privacy with this convenient feature.
 
 
 ## Contributing
